@@ -1,37 +1,37 @@
 id,producto,precio,cantidad,ciudad
-1,Producto W,84.81,6,Loja
-2,Producto V,80.16,9,Ambato
-3,Producto N,77.23,4,Esmeraldas
-4,Producto Y,77.71,9,Santo Domingo
-5,Producto B,115.64,11,Ambato
-6,Producto J,119.73,5,Esmeraldas
+1,Producto W,74.81,6,Loja
+2,Producto V,70.16,9,Ambato
+3,Producto N,67.23,4,Esmeraldas
+4,Producto Y,67.71,9,Santo Domingo
+5,Producto B,105.64,11,Ambato
+6,Producto J,109.73,5,Esmeraldas
 7,Producto F,,6,Manta
-8,Producto N,94.01,20,Manta
+8,Producto N,84.01,20,Manta
 9,Producto J,181.0,18,Ambato
 10,Producto P,117.15,2,Santo Domingo
 11,Producto Q,167.39,1,Cuenca
 12,Producto C,50.22,3,Quito
 13,Producto O,159.06,1,Loja
 14,Producto R,79.78,13,Cuenca
-15,Producto Y,158.28,10,Riobamba
+15,Producto Y,148.28,10,Riobamba
 16,Producto O,111.24,15,Santo Domingo
-16,Producto O,111.24,15,Santo Domingo
+16,Producto O,101.24,15,Santo Domingo
 17,Producto J,53.89,13,Riobamba
-18,Producto B,117.7,3,Riobamba
+18,Producto B,127.7,3,Riobamba
 19,Producto A,,17,Guayaquil
 20,Producto Z,123.3,6,Cuenca
-21,Producto X,90.14,14,Ambato
+21,Producto X,80.14,14,Ambato
 22,Producto T,197.42,13,Ambato
-23,Producto W,88.29,10,Riobamba
+23,Producto W,78.29,10,Riobamba
 24,Producto Q,76.07,3,Manta
-25,Producto L,184.49,10,Loja
+25,Producto L,154.49,10,Loja
 26,Producto X,126.31,17,Esmeraldas
-27,Producto M,52.04,12,Guayaquil
+27,Producto M,42.04,12,Guayaquil
 28,Producto R,158.46,7,Cuenca
-29,Producto G,115.23,11,Esmeraldas
+29,Producto G,125.23,11,Esmeraldas
 30,Producto O,77.89,6,Manta
 31,Producto K,174.98,13,Cuenca
-32,Producto F,195.7,17,Quito
+32,Producto F,155.7,17,Quito
 33,Producto Z,,2,Cuenca
 34,Producto H,115.8,15,Cuenca
 35,Producto K,63.98,,Riobamba
@@ -39,44 +39,44 @@ id,producto,precio,cantidad,ciudad
 37,Producto I,96.16,10,Cuenca
 38,Producto D,,4,Ambato
 39,Producto Y,174.43,15,Manta
-40,Producto X,108.7,10,Esmeraldas
+40,Producto X,148.7,10,Esmeraldas
 41,Producto C,90.9,18,Ambato
 42,Producto Q,135.11,16,Esmeraldas
-43,Producto H,116.81,13,Santo Domingo
+43,Producto H,126.81,13,Santo Domingo
 44,Producto P,57.04,14,Riobamba
 45,Producto D,131.55,12,Esmeraldas
 46,Producto S,125.82,20,Santo Domingo
 47,Producto C,135.94,16,Guayaquil
 48,Producto Q,125.38,11,Loja
-49,Producto F,64.88,2,Portoviejo
+49,Producto F,54.88,2,Portoviejo
 50,Producto Q,145.0,19,Santo Domingo
 51,Producto E,171.76,2,Riobamba
 52,Producto I,,6,Riobamba
-53,Producto V,188.19,4,Loja
+53,Producto V,178.19,4,Loja
 54,Producto J,135.66,14,Esmeraldas
 55,Producto D,145.5,9,Manta
 56,Producto T,63.09,9,Loja
-57,Producto N,190.17,,Santo Domingo
+57,Producto N,180.17,,Santo Domingo
 58,Producto K,173.11,3,Cuenca
 59,Producto I,187.87,13,Ambato
 60,Producto F,154.3,2,Ambato
-61,Producto O,145.86,9,Cuenca
+61,Producto O,135.86,9,Cuenca
 62,Producto X,94.14,2,Santo Domingo
-63,Producto W,184.08,8,Portoviejo
+63,Producto W,174.08,8,Portoviejo
 64,Producto R,66.61,7,Manta
 65,Producto Q,109.85,12,Ambato
 66,Producto Z,,5,Esmeraldas
-67,Producto Y,188.83,,Santo Domingo
+67,Producto Y,158.83,,Santo Domingo
 68,Producto L,188.06,15,Santo Domingo
-69,Producto V,171.7,1,Riobamba
+69,Producto V,141.7,1,Riobamba
 70,Producto D,76.82,3,Santo Domingo
 71,Producto Z,66.87,5,Portoviejo
 72,Producto O,70.27,11,Portoviejo
 73,Producto X,93.71,12,Quito
 74,Producto E,98.17,18,Loja
-75,Producto W,198.72,12,Ambato
+75,Producto W,178.72,12,Ambato
 76,Producto A,159.61,8,Guayaquil
-76,Producto A,159.61,8,Guayaquil
+76,Producto A,169.61,8,Guayaquil
 77,Producto F,98.66,20,Guayaquil
 78,Producto X,194.2,1,Portoviejo
 79,Producto G,186.52,1,Manta
